@@ -2,11 +2,13 @@
 
 Sitio personal de Jesús Leo Congacha Santos para el curso Cloud Computing y Arquitecturas Digitales.
 
-## Publicar con GitHub Pages
+## Enlaces
 
-1. Subir `index.html` a la rama principal del repositorio.
-2. En GitHub, abrir **Settings → Pages**.
-3. En **Build and deployment**, seleccionar **Deploy from a branch**, la rama `main` y la carpeta `/ (root)`.
-4. Esperar la publicación y comprobar el enlace público.
+- Sitio web: https://jcangacha-boop.github.io/portafolio-jesus-leo/
+- Repositorio: https://github.com/jcangacha-boop/portafolio-jesus-leo
+- Perfil GitHub: https://github.com/jcangacha-boop
 
-El correo no se publica en esta página. La dirección final del repositorio y del sitio se agregará cuando se confirme la cuenta de GitHub.
+## Publicación
+
+El sitio se publica con GitHub Pages desde la rama `main`, carpeta `/ (root)`. Los cambios en `index.html` se actualizan al hacer un nuevo commit en esa rama.
+
